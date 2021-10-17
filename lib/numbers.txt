@@ -1,0 +1,11 @@
+nihil
+ūnus
+duo
+trēs
+quattuor
+quīnque
+sex
+septem
+octō
+novem
+decem
